@@ -17,3 +17,4 @@
 * Fidelidad respecto al esquema original.
 * Despliegue correcto en GitHub Pages.
 
+<img width="408" height="570" alt="capturadepantallacssgridexercise" src="https://github.com/user-attachments/assets/3fb7bd1f-1a8a-4d87-884c-672359591007" />
